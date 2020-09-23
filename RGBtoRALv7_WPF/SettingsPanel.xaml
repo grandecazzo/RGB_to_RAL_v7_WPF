@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="RGBtoRALv7_WPF.SettingsPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RGBtoRALv7_WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="250">
+	<UserControl.Resources>
+		<SolidColorBrush x:Key="SuperBlue" Color="#50b4f5"></SolidColorBrush>
+
+		<Style x:Key="NoBackButton" TargetType="Button">
+			<Setter Property="OverridesDefaultStyle" Value="True" />
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="Button">
+						<Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+							<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+						</Border>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+
+	</UserControl.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition></RowDefinition>
+			<RowDefinition Height="75"></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+		</Grid.RowDefinitions>
+
+		<Label x:Name="settings_langLabel" Grid.Row="0" HorizontalAlignment="Left" Content="Language:" Foreground="{StaticResource SuperBlue}" VerticalContentAlignment="Center" FontSize="12"></Label>
+		<ComboBox Foreground="{StaticResource SuperBlue}" SelectedIndex="0" Style="{StaticResource ComboBoxFlatStyle}" Grid.Row="0" VerticalAlignment="Center" x:Name="ComboBoxLanguage" HorizontalAlignment="Stretch" Margin="75,0,8,0">
+			<ComboBoxItem Content="English"/>
+			<ComboBoxItem Content="Russian"/>
+		</ComboBox>
+		<Border Grid.Row="1" BorderBrush="#323133" BorderThickness="0,2,0,2" Margin="8,0,8,0">
+			<DockPanel Margin="-8,0,-8,0">
+			<Label Name="settings_sipLabel" DockPanel.Dock="Top" Foreground="{StaticResource SuperBlue}" Content="Color picking type:" FontSize="12"></Label>
+			<ComboBox Foreground="{StaticResource SuperBlue}" SelectedIndex="0" Style="{StaticResource ComboBoxFlatStyle}" Grid.Row="0" VerticalAlignment="Center" x:Name="ComboBoxSipType" HorizontalAlignment="Stretch" Margin="8,0,8,0" DockPanel.Dock="Top">
+				<ComboBoxItem Content="All Windows"/>
+				<ComboBoxItem Content="Ask for Window"/>
+				<ComboBoxItem Content="Active Window"/>
+			</ComboBox>
+
+			<CheckBox x:Name="CheckBoxHideWindow" Style="{DynamicResource CheckBoxStyle_dark_blue}" Background="#323133" BorderBrush="Transparent" Content="Hide main window" Foreground="{StaticResource SuperBlue}" VerticalAlignment="Center" IsChecked="True" DockPanel.Dock="Bottom" Margin="8,0,0,0">
+
+			</CheckBox>
+
+		</DockPanel>
+		</Border>
+		<Border Grid.Row="2" BorderBrush="#323133" BorderThickness="0,0,0,2" Margin="8,0,8,0">
+		<DockPanel Margin="-8,0,-8,0">
+			<Border Background="Transparent" BorderBrush="#323133" BorderThickness="0,0,2,0" Margin="0,4,0,4">
+				<TextBlock Name="settings_develLabel" Text="Developed by stormtrooper_34 2020" Margin="0,0,2,0" Width="100" FontSize="9" TextWrapping="Wrap" Height="35" Background="Transparent" VerticalAlignment="Center" Foreground="{StaticResource SuperBlue}" TextAlignment="Right"></TextBlock>
+			</Border>
+			<Button DockPanel.Dock="Right" Name="resetButton" Content="RESET" Margin="0,0,8,0" Foreground="{StaticResource SuperBlue}" Style="{StaticResource NoBackButton}" MouseEnter="Reset_Button_MouseEnter" MouseLeave="Reset_Button_MouseLeave"></Button>
+			<Label Name="settings_setToDef" Content="Set to Default:" VerticalAlignment="Center" FontSize="12" Foreground="{StaticResource SuperBlue}" DockPanel.Dock="Right"></Label>
+		</DockPanel>
+		</Border>
+		<DockPanel Grid.Row="3" HorizontalAlignment="Stretch" Margin="8,0,8,0">
+
+			<Label Foreground="{StaticResource SuperBlue}" VerticalAlignment="Center" FontSize="11">Icon made by</Label>
+			<Label Foreground="#52cc00" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold">Freepik</Label>
+			<Label Foreground="{StaticResource SuperBlue}" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="11">from</Label>
+			<TextBlock VerticalAlignment="Center" FontWeight="Bold"><Hyperlink Foreground="#52cc00">flaticon.com</Hyperlink></TextBlock>
+			
+		</DockPanel>
+	</Grid>
+</UserControl>

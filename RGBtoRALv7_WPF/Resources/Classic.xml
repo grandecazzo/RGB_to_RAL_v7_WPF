@@ -1,0 +1,1515 @@
+<ColorCollection CollectionName="Classic" HaveTypeDesc="true">
+  <Color Name="RAL 1000">
+    <Description ru="Зелёно-бежевый" en="Green beige" />
+    <CMYKC> 10  10  50  10</CMYKC>
+    <CMYKU>  0   3  40  10</CMYKU>
+    <HEX>#CCC58F</HEX>
+    <RGB R="204" G="197" B="143" />
+  </Color>
+  <Color Name="RAL 1001">
+    <Description ru="Бежевый" en="Beige" />
+    <CMYKC>  0  20  50  20</CMYKC>
+    <CMYKU> 10  20  40   0</CMYKU>
+    <HEX>#D1BC8A</HEX>
+    <RGB R="209" G="188" B="138" />
+  </Color>
+  <Color Name="RAL 1002">
+    <Description ru="Песочно-жёлтый" en="Sand yellow" />
+    <CMYKC>  0  20  60  10</CMYKC>
+    <CMYKU>  3  23  60   7</CMYKU>
+    <HEX>#D2B773</HEX>
+    <RGB R="210" G="183" B="115" />
+  </Color>
+  <Color Name="RAL 1003">
+    <Description ru="Сигнальный жёлтый" en="Signal yellow" />
+    <CMYKC>  5  20  90   0</CMYKC>
+    <CMYKU>  0  20 100   0</CMYKU>
+    <HEX>#F7BA0B</HEX>
+    <RGB R="247" G="186" B="11" />
+  </Color>
+  <Color Name="RAL 1004">
+    <Description ru="Жёлто-золотой" en="Golden yellow" />
+    <CMYKC>  5  30 100   0</CMYKC>
+    <CMYKU>  0  20 100  10</CMYKU>
+    <HEX>#E2B007</HEX>
+    <RGB R="226" G="176" B="7" />
+  </Color>
+  <Color Name="RAL 1005">
+    <Description ru="Медово-жёлтый" en="Honey yellow" />
+    <CMYKC> 10  30 100   0</CMYKC>
+    <CMYKU> 10  20  90   0</CMYKU>
+    <HEX>#C89F04</HEX>
+    <RGB R="200" G="159" B="4" />
+  </Color>
+  <Color Name="RAL 1006">
+    <Description ru="Кукурузно-жёлтый" en="Maize yellow" />
+    <CMYKC>  5  30  90   0</CMYKC>
+    <CMYKU>  0  30 100   0</CMYKU>
+    <HEX>#E1A100</HEX>
+    <RGB R="225" G="161" B="0" />
+  </Color>
+  <Color Name="RAL 1007">
+    <Description ru="Нарциссово-жёлтый" en="Daffodil yellow" />
+    <CMYKC>  0  40 100   0</CMYKC>
+    <CMYKU>  0  30 100   0</CMYKU>
+    <HEX>#E79C00</HEX>
+    <RGB R="231" G="156" B="0" />
+  </Color>
+  <Color Name="RAL 1011">
+    <Description ru="Коричнево-бежевый" en="Brown beige" />
+    <CMYKC> 30  40  70   0</CMYKC>
+    <CMYKU> 20  50 100  10</CMYKU>
+    <HEX>#AF8A54</HEX>
+    <RGB R="175" G="138" B="84" />
+  </Color>
+  <Color Name="RAL 1012">
+    <Description ru="Лимонно-жёлтый" en="Lemon yellow" />
+    <CMYKC> 10  10  90   0</CMYKC>
+    <CMYKU> 10  10 100   0</CMYKU>
+    <HEX>#D9C022</HEX>
+    <RGB R="217" G="192" B="34" />
+  </Color>
+  <Color Name="RAL 1013">
+    <Description ru="Жемчужно-белый" en="Oyster white" />
+    <CMYKC>  0   5  20  10</CMYKC>
+    <CMYKU> 10  10  20   0</CMYKU>
+    <HEX>#E9E5CE</HEX>
+    <RGB R="233" G="229" B="206" />
+  </Color>
+  <Color Name="RAL 1014">
+    <Description ru="Слоновая кость" en="Ivory" />
+    <CMYKC>  0  10  40  10</CMYKC>
+    <CMYKU> 10  10  30   0</CMYKU>
+    <HEX>#DED09F</HEX>
+    <RGB R="222" G="208" B="159" />
+  </Color>
+  <Color Name="RAL 1015">
+    <Description ru="Светлая слоновая кость" en="Light ivory" />
+    <CMYKC>  0   5  30  10</CMYKC>
+    <CMYKU> 10  10  20   0</CMYKU>
+    <HEX>#EADEBD</HEX>
+    <RGB R="234" G="222" B="189" />
+  </Color>
+  <Color Name="RAL 1016">
+    <Description ru="Жёлтая сера" en="Sulfur yellow" />
+    <CMYKC> 10   0  90   0</CMYKC>
+    <CMYKU> 10   0  80   0</CMYKU>
+    <HEX>#EAF044</HEX>
+    <RGB R="234" G="240" B="68" />
+  </Color>
+  <Color Name="RAL 1017">
+    <Description ru="Шафраново-жёлтый" en="Saffron yellow" />
+    <CMYKC>  0  30  70   0</CMYKC>
+    <CMYKU>  0  30  90   0</CMYKU>
+    <HEX>#F4B752</HEX>
+    <RGB R="244" G="183" B="82" />
+  </Color>
+  <Color Name="RAL 1018">
+    <Description ru="Цинково-жёлтый" en="Zinc yellow" />
+    <CMYKC>  0   0  80   0</CMYKC>
+    <CMYKU>  0   0  90   0</CMYKU>
+    <HEX>#F3E03B</HEX>
+    <RGB R="243" G="224" B="59" />
+  </Color>
+  <Color Name="RAL 1019">
+    <Description ru="Серо-бежевый" en="Grey beige" />
+    <CMYKC>  5  20  40  40</CMYKC>
+    <CMYKU> 10  20  30   0</CMYKU>
+    <HEX>#A4957D</HEX>
+    <RGB R="164" G="149" B="125" />
+  </Color>
+  <Color Name="RAL 1020">
+    <Description ru="Оливково-жёлтый" en="Olive yellow" />
+    <CMYKC>  1   5  30  40</CMYKC>
+    <CMYKU> 10  10  50  25</CMYKU>
+    <HEX>#9A9464</HEX>
+    <RGB R="154" G="148" B="100" />
+  </Color>
+  <Color Name="RAL 1021">
+    <Description ru="Рапсово-жёлтый" en="Rape yellow" />
+    <CMYKC>  0  10 100   0</CMYKC>
+    <CMYKU>  0   0 100   0</CMYKU>
+    <HEX>#EEC900</HEX>
+    <RGB R="238" G="201" B="0" />
+  </Color>
+  <Color Name="RAL 1023">
+    <Description ru="Транспортно-жёлтый" en="Traffic yellow" />
+    <CMYKC>  0  10  90   0</CMYKC>
+    <CMYKU>  0  10 100   0</CMYKU>
+    <HEX>#F0CA00</HEX>
+    <RGB R="240" G="202" B="0" />
+  </Color>
+  <Color Name="RAL 1024">
+    <Description ru="Охра жёлтая" en="Ochre yellow" />
+    <CMYKC> 30  40  70  10</CMYKC>
+    <CMYKU>  0  20 100  25</CMYKU>
+    <HEX>#B89C50</HEX>
+    <RGB R="184" G="156" B="80" />
+  </Color>
+  <Color Name="RAL 1026">
+    <Type ru="Флуоресцентный" en="Fluorescent" />
+    <Description ru="Люминесцентный жёлтый" en="Luminous yellow" />
+    <CMYKC>  0   0 100   0</CMYKC>
+    <CMYKU>  0   0 100   0</CMYKU>
+    <HEX>#F5FF00</HEX>
+    <RGB R="245" G="255" B="0" />
+  </Color>
+  <Color Name="RAL 1027">
+    <Description ru="Карри жёлтый" en="Curry" />
+    <CMYKC> 10  20  90  40</CMYKC>
+    <CMYKU> 30  30 100   0</CMYKU>
+    <HEX>#A38C15</HEX>
+    <RGB R="163" G="140" B="21" />
+  </Color>
+  <Color Name="RAL 1028">
+    <Description ru="Дынно-жёлтый" en="Melon yellow" />
+    <CMYKC>  0  30 100   0</CMYKC>
+    <CMYKU>  0  20 100   0</CMYKU>
+    <HEX>#FFAB00</HEX>
+    <RGB R="255" G="171" B="0" />
+  </Color>
+  <Color Name="RAL 1032">
+    <Description ru="Жёлтый ракитник" en="Broom yellow" />
+    <CMYKC>  0  30  90  10</CMYKC>
+    <CMYKU>  0  20 100  10</CMYKU>
+    <HEX>#DDB20F</HEX>
+    <RGB R="221" G="178" B="15" />
+  </Color>
+  <Color Name="RAL 1033">
+    <Description ru="Георгиново-жёлтый" en="Dahlia yellow" />
+    <CMYKC>  0  30  90   0</CMYKC>
+    <CMYKU>  0  30 100   0</CMYKU>
+    <HEX>#FAAB21</HEX>
+    <RGB R="250" G="171" B="33" />
+  </Color>
+  <Color Name="RAL 1034">
+    <Description ru="Пастельно-жёлтый" en="Pastel yellow" />
+    <CMYKC>  0  30  80   0</CMYKC>
+    <CMYKU>  0  30  60   0</CMYKU>
+    <HEX>#EDAB56</HEX>
+    <RGB R="237" G="171" B="86" />
+  </Color>
+  <Color Name="RAL 1035">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-бежевый" en="Pearl beige" />
+    <CMYKC> 16  19  33  26</CMYKC>
+    <CMYKU> 20  20  33  12</CMYKU>
+    <HEX>#A29985</HEX>
+    <RGB R="162" G="153" B="133" />
+  </Color>
+  <Color Name="RAL 1036">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-золотой" en="Pearl gold" />
+    <CMYKC> 33  46  80  18</CMYKC>
+    <CMYKU>  9  36  97  28</CMYKU>
+    <HEX>#927549</HEX>
+    <RGB R="146" G="117" B="73" />
+  </Color>
+  <Color Name="RAL 1037">
+    <Description ru="Солнечно-жёлтый" en="Sun yellow" />
+    <CMYKC>  0  40 100   0</CMYKC>
+    <CMYKU>  0  35  90   0</CMYKU>
+    <HEX>#EEA205</HEX>
+    <RGB R="238" G="162" B="5" />
+  </Color>
+  <Color Name="RAL 2000">
+    <Description ru="Жёлто-оранжевый" en="Yellow orange" />
+    <CMYKC>  0  50 100   0</CMYKC>
+    <CMYKU>  0  40 100   0</CMYKU>
+    <HEX>#DD7907</HEX>
+    <RGB R="221" G="121" B="7" />
+  </Color>
+  <Color Name="RAL 2001">
+    <Description ru="Красно-оранжевый" en="Red orange" />
+    <CMYKC>  0  80 100  20</CMYKC>
+    <CMYKU>  0  70 100   0</CMYKU>
+    <HEX>#BE4E24</HEX>
+    <RGB R="190" G="78" B="36" />
+  </Color>
+  <Color Name="RAL 2002">
+    <Description ru="Алый" en="Vermilion" />
+    <CMYKC>  0  90 100  10</CMYKC>
+    <CMYKU>  0  80 100   0</CMYKU>
+    <HEX>#C63927</HEX>
+    <RGB R="198" G="57" B="39" />
+  </Color>
+  <Color Name="RAL 2003">
+    <Description ru="Пастельно-оранжевый" en="Pastel orange" />
+    <CMYKC>  0  52 100   0</CMYKC>
+    <CMYKU>  0  60 100   0</CMYKU>
+    <HEX>#FA842B</HEX>
+    <RGB R="250" G="132" B="43" />
+  </Color>
+  <Color Name="RAL 2004">
+    <Description ru="Оранжевый" en="Pure orange" />
+    <CMYKC>  0  70 100   0</CMYKC>
+    <CMYKU>  0  70 100   0</CMYKU>
+    <HEX>#E75B12</HEX>
+    <RGB R="231" G="91" B="18" />
+  </Color>
+  <Color Name="RAL 2005">
+    <Type ru="Флуоресцентный" en="Fluorescent" />
+    <Description ru="Люминесцентный оранжевый" en="Luminous orange" />
+    <CMYKC>  0  75  75   5</CMYKC>
+    <CMYKU>  0  50 100   0</CMYKU>
+    <HEX>#FF2300</HEX>
+    <RGB R="255" G="35" B="0" />
+  </Color>
+  <Color Name="RAL 2007">
+    <Type ru="Флуоресцентный" en="Fluorescent" />
+    <Description ru="Люминесцентный ярко-оранжевый" en="Luminous bright orange" />
+    <CMYKC>  0  50 100   0</CMYKC>
+    <CMYKU>  0  20  90   0</CMYKU>
+    <HEX>#FFA421</HEX>
+    <RGB R="255" G="164" B="33" />
+  </Color>
+  <Color Name="RAL 2008">
+    <Description ru="Ярко-красно-оранжевый" en="Bright red orange" />
+    <CMYKC>  0  60 100   0</CMYKC>
+    <CMYKU>  0  50 100   0</CMYKU>
+    <HEX>#F3752C</HEX>
+    <RGB R="243" G="117" B="44" />
+  </Color>
+  <Color Name="RAL 2009">
+    <Description ru="Транспортный оранжевый" en="Traffic orange" />
+    <CMYKC>  5  70 100  10</CMYKC>
+    <CMYKU>  0  60 100   0</CMYKU>
+    <HEX>#E15501</HEX>
+    <RGB R="225" G="85" B="1" />
+  </Color>
+  <Color Name="RAL 2010">
+    <Description ru="Сигнальный оранжевый" en="Signal orange" />
+    <CMYKC>  0  70 100  10</CMYKC>
+    <CMYKU>  0  60 100   0</CMYKU>
+    <HEX>#D4652F</HEX>
+    <RGB R="212" G="101" B="47" />
+  </Color>
+  <Color Name="RAL 2011">
+    <Description ru="Насыщенный оранжевый" en="Deep orange" />
+    <CMYKC>  0  55 100   0</CMYKC>
+    <CMYKU>  0  40 100   0</CMYKU>
+    <HEX>#EC7C25</HEX>
+    <RGB R="236" G="124" B="37" />
+  </Color>
+  <Color Name="RAL 2012">
+    <Description ru="Лососёво-оранжевый" en="Salmon range" />
+    <CMYKC>  0  60  70   0</CMYKC>
+    <CMYKU>  0  80  80   0</CMYKU>
+    <HEX>#DB6A50</HEX>
+    <RGB R="219" G="106" B="80" />
+  </Color>
+  <Color Name="RAL 2013">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-оранжевый" en="Pearl orange" />
+    <CMYKC>  0  80 100  40</CMYKC>
+    <CMYKU> 10  80 100  10</CMYKU>
+    <HEX>#954527</HEX>
+    <RGB R="149" G="69" B="39" />
+  </Color>
+  <Color Name="RAL 3000">
+    <Description ru="Огненно-красный" en="Flame red" />
+    <CMYKC>  0 100 100  20</CMYKC>
+    <CMYKU>  0 100  90   0</CMYKU>
+    <HEX>#AB2524</HEX>
+    <RGB R="171" G="37" B="36" />
+  </Color>
+  <Color Name="RAL 3001">
+    <Description ru="Сигнальный красный" en="Signal red" />
+    <CMYKC> 20 100  90  10</CMYKC>
+    <CMYKU>  0 100  90   0</CMYKU>
+    <HEX>#A02128</HEX>
+    <RGB R="160" G="33" B="40" />
+  </Color>
+  <Color Name="RAL 3002">
+    <Description ru="Карминно-красный" en="Carmine red" />
+    <CMYKC> 10 100  90  20</CMYKC>
+    <CMYKU>  0 100  90   0</CMYKU>
+    <HEX>#A1232B</HEX>
+    <RGB R="161" G="35" B="43" />
+  </Color>
+  <Color Name="RAL 3003">
+    <Description ru="Рубиново-красный" en="Ruby red" />
+    <CMYKC>  0 100 100  40</CMYKC>
+    <CMYKU>  0 100  90  15</CMYKU>
+    <HEX>#8D1D2C</HEX>
+    <RGB R="141" G="29" B="44" />
+  </Color>
+  <Color Name="RAL 3004">
+    <Description ru="Пурпурно-красный" en="Purple red" />
+    <CMYKC> 20 100 100  60</CMYKC>
+    <CMYKU>  0 100  90  30</CMYKU>
+    <HEX>#701F29</HEX>
+    <RGB R="112" G="31" B="41" />
+  </Color>
+  <Color Name="RAL 3005">
+    <Description ru="Винно-красный" en="Wine red" />
+    <CMYKC> 20 100  80  40</CMYKC>
+    <CMYKU>  0 100  90  50</CMYKU>
+    <HEX>#5E2028</HEX>
+    <RGB R="94" G="32" B="40" />
+  </Color>
+  <Color Name="RAL 3007">
+    <Description ru="Чёрно-красный" en="Black red" />
+    <CMYKC> 60 100  70  80</CMYKC>
+    <CMYKU> 50 100  90  40</CMYKU>
+    <HEX>#402225</HEX>
+    <RGB R="64" G="34" B="37" />
+  </Color>
+  <Color Name="RAL 3009">
+    <Description ru="Оксид красный" en="Oxide red" />
+    <CMYKC>  5  90 100  80</CMYKC>
+    <CMYKU> 20 100  90  30</CMYKU>
+    <HEX>#703731</HEX>
+    <RGB R="112" G="55" B="49" />
+  </Color>
+  <Color Name="RAL 3011">
+    <Description ru="Коричнево-красный" en="Brown red" />
+    <CMYKC> 20 100 100  40</CMYKC>
+    <CMYKU>  0 100  90  30</CMYKU>
+    <HEX>#7E292C</HEX>
+    <RGB R="126" G="41" B="44" />
+  </Color>
+  <Color Name="RAL 3012">
+    <Description ru="Бежево-красный" en="Beige red" />
+    <CMYKC>  5  50  50  10</CMYKC>
+    <CMYKU> 20  60  50   0</CMYKU>
+    <HEX>#CB8D73</HEX>
+    <RGB R="203" G="141" B="115" />
+  </Color>
+  <Color Name="RAL 3013">
+    <Description ru="Томатно-красный" en="Tomato red" />
+    <CMYKC> 20  90 100  20</CMYKC>
+    <CMYKU>  0 100 100  15</CMYKU>
+    <HEX>#9C322E</HEX>
+    <RGB R="156" G="50" B="46" />
+  </Color>
+  <Color Name="RAL 3014">
+    <Description ru="Розовый антик" en="Antique pink" />
+    <CMYKC>  0  70  30  10</CMYKC>
+    <CMYKU> 10  70  40   0</CMYKU>
+    <HEX>#D47479</HEX>
+    <RGB R="212" G="116" B="121" />
+  </Color>
+  <Color Name="RAL 3015">
+    <Description ru="Светло-розовый" en="Light pink" />
+    <CMYKC>  0  50  20  10</CMYKC>
+    <CMYKU> 10  40  10   0</CMYKU>
+    <HEX>#E1A6AD</HEX>
+    <RGB R="225" G="166" B="173" />
+  </Color>
+  <Color Name="RAL 3016">
+    <Description ru="Кораллово-красный" en="Coral red" />
+    <CMYKC>  0  90  90  20</CMYKC>
+    <CMYKU>  0  90  90  10</CMYKU>
+    <HEX>#AC4034</HEX>
+    <RGB R="172" G="64" B="52" />
+  </Color>
+  <Color Name="RAL 3017">
+    <Description ru="Розовый" en="Rose" />
+    <CMYKC>  0  80  50  10</CMYKC>
+    <CMYKU>  0  80  40   0</CMYKU>
+    <HEX>#D3545F</HEX>
+    <RGB R="211" G="84" B="95" />
+  </Color>
+  <Color Name="RAL 3018">
+    <Description ru="Клубнично-красный" en="Strawberry red" />
+    <CMYKC>  5  90  70   5</CMYKC>
+    <CMYKU>  0  90 100   0</CMYKU>
+    <HEX>#D14152</HEX>
+    <RGB R="209" G="65" B="82" />
+  </Color>
+  <Color Name="RAL 3020">
+    <Description ru="Транспортный красный" en="Traffic red" />
+    <CMYKC>  0 100 100  10</CMYKC>
+    <CMYKU>  0  90  90   0</CMYKU>
+    <HEX>#C1121C</HEX>
+    <RGB R="193" G="18" B="28" />
+  </Color>
+  <Color Name="RAL 3022">
+    <Description ru="Лососёво-красный" en="Salmon pink" />
+    <CMYKC>  0  60  70   0</CMYKC>
+    <CMYKU>  0  70  60   0</CMYKU>
+    <HEX>#D56D56</HEX>
+    <RGB R="213" G="109" B="86" />
+  </Color>
+  <Color Name="RAL 3024">
+    <Type ru="Флуоресцентный" en="Fluorescent" />
+    <Description ru="Люминесцентный красный" en="Luminous red" />
+    <CMYKC>  0  80  90   0</CMYKC>
+    <CMYKU>  0  70 100   0</CMYKU>
+    <HEX>#F70000</HEX>
+    <RGB R="247" G="0" B="0" />
+  </Color>
+  <Color Name="RAL 3026">
+    <Type ru="Флуоресцентный" en="Fluorescent" />
+    <Description ru="Люминесцентный ярко-красный" en="&quot;Luminous bright red&quot;" />
+    <CMYKC>  0  80 100   0</CMYKC>
+    <CMYKU>  0  70 100   0</CMYKU>
+    <HEX>#FF0000</HEX>
+    <RGB R="255" G="0" B="0" />
+  </Color>
+  <Color Name="RAL 3027">
+    <Description ru="Малиново-красный" en="Raspberry red" />
+    <CMYKC>  0 100  70  20</CMYKC>
+    <CMYKU>  0 100  60  15</CMYKU>
+    <HEX>#B42041</HEX>
+    <RGB R="180" G="32" B="65" />
+  </Color>
+  <Color Name="RAL 3028">
+    <Description ru="Красный" en="Pure  red" />
+    <CMYKC>  5 100 100   0</CMYKC>
+    <CMYKU>  5 100 100   0</CMYKU>
+    <HEX>#CB3334</HEX>
+    <RGB R="203" G="51" B="52" />
+  </Color>
+  <Color Name="RAL 3031">
+    <Description ru="Ориент красный" en="Orient red" />
+    <CMYKC> 20 100  90  20</CMYKC>
+    <CMYKU>  0  90  60  15</CMYKU>
+    <HEX>#AC323B</HEX>
+    <RGB R="172" G="50" B="59" />
+  </Color>
+  <Color Name="RAL 3032">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-рубиновый" en="Pearl ruby red" />
+    <CMYKC> 10 100  90  50</CMYKC>
+    <CMYKU> 10 100 100  30</CMYKU>
+    <HEX>#711521</HEX>
+    <RGB R="113" G="21" B="33" />
+  </Color>
+  <Color Name="RAL 3033">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-розовый" en="Pearl pink" />
+    <CMYKC>  8  84  72  13</CMYKC>
+    <CMYKU>  0  93  93   7</CMYKU>
+    <HEX>#B24C43</HEX>
+    <RGB R="178" G="76" B="67" />
+  </Color>
+  <Color Name="RAL 4001">
+    <Description ru="Красно-сиреневый" en="Red lilac" />
+    <CMYKC> 60  70   5  10</CMYKC>
+    <CMYKU> 50  97  20   0</CMYKU>
+    <HEX>#8A5A83</HEX>
+    <RGB R="138" G="90" B="131" />
+  </Color>
+  <Color Name="RAL 4002">
+    <Description ru="Красно-фиолетовый" en="Red violet" />
+    <CMYKC> 40 100  90   5</CMYKC>
+    <CMYKU>  0 100  40  30</CMYKU>
+    <HEX>#933D50</HEX>
+    <RGB R="147" G="61" B="80" />
+  </Color>
+  <Color Name="RAL 4003">
+    <Description ru="Вересково-фиолетовый" en="Heather violet" />
+    <CMYKC> 10  70  10   0</CMYKC>
+    <CMYKU>  7  90   0   0</CMYKU>
+    <HEX>#D15B8F</HEX>
+    <RGB R="209" G="91" B="143" />
+  </Color>
+  <Color Name="RAL 4004">
+    <Description ru="Бордово-фиолетовый" en="Claret violet" />
+    <CMYKC> 60 100  50  20</CMYKC>
+    <CMYKU> 10 100   0  50</CMYKU>
+    <HEX>#691639</HEX>
+    <RGB R="105" G="22" B="57" />
+  </Color>
+  <Color Name="RAL 4005">
+    <Description ru="Сине-сиреневый" en="Blue lilac" />
+    <CMYKC> 60 100   5  10</CMYKC>
+    <CMYKU> 50  60   0   0</CMYKU>
+    <HEX>#83639D</HEX>
+    <RGB R="131" G="99" B="157" />
+  </Color>
+  <Color Name="RAL 4006">
+    <Description ru="Транспортный пурпурный" en="Traffic purple" />
+    <CMYKC> 50 100   0  10</CMYKC>
+    <CMYKU> 30 100   0   0</CMYKU>
+    <HEX>#992572</HEX>
+    <RGB R="153" G="37" B="114" />
+  </Color>
+  <Color Name="RAL 4007">
+    <Description ru="Пурпурно-фиолетовый" en="Purple violet" />
+    <CMYKC> 70 100  20  60</CMYKC>
+    <CMYKU> 90   0  10  25</CMYKU>
+    <HEX>#4A203B</HEX>
+    <RGB R="74" G="32" B="59" />
+  </Color>
+  <Color Name="RAL 4008">
+    <Description ru="Сигнальный фиолетовый" en="Signal violet" />
+    <CMYKC> 60  90   0  10</CMYKC>
+    <CMYKU> 30 100   0   0</CMYKU>
+    <HEX>#904684</HEX>
+    <RGB R="144" G="70" B="132" />
+  </Color>
+  <Color Name="RAL 4009">
+    <Description ru="Пастельно-фиолетовый" en="Pastel violet" />
+    <CMYKC> 40  40  30   0</CMYKC>
+    <CMYKU> 17  40  10  15</CMYKU>
+    <HEX>#A38995</HEX>
+    <RGB R="163" G="137" B="149" />
+  </Color>
+  <Color Name="RAL 4010">
+    <Description ru="Телемагента" en="Telemagenta" />
+    <CMYKC> 10  90  30   0</CMYKC>
+    <CMYKU>  0 100   0   0</CMYKU>
+    <HEX>#C63678</HEX>
+    <RGB R="198" G="54" B="120" />
+  </Color>
+  <Color Name="RAL 4011">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-фиолетовый" en="Pearl violet" />
+    <CMYKC> 47  57   3   7</CMYKC>
+    <CMYKU> 47  64   0   0</CMYKU>
+    <HEX>#8773A1</HEX>
+    <RGB R="135" G="115" B="161" />
+  </Color>
+  <Color Name="RAL 4012">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-ежевичный" en="Pearl black berry" />
+    <CMYKC> 50  50  20  23</CMYKC>
+    <CMYKU> 54  57   3  26</CMYKU>
+    <HEX>#6B6880</HEX>
+    <RGB R="107" G="104" B="128" />
+  </Color>
+  <Color Name="RAL 5000">
+    <Description ru="Фиолетово-синий" en="Violet blue" />
+    <CMYKC>100  40   5  40</CMYKC>
+    <CMYKU>100  70  10  25</CMYKU>
+    <HEX>#384C70</HEX>
+    <RGB R="56" G="76" B="112" />
+  </Color>
+  <Color Name="RAL 5001">
+    <Description ru="Зелёно-синий" en="Green blue" />
+    <CMYKC> 90  20   0  80</CMYKC>
+    <CMYKU>100  50  10  20</CMYKU>
+    <HEX>#1F4764</HEX>
+    <RGB R="31" G="71" B="100" />
+  </Color>
+  <Color Name="RAL 5002">
+    <Description ru="Ультрамариново-синий" en="Ultramarine blue" />
+    <CMYKC>100  70   0  40</CMYKC>
+    <CMYKU>100  90   0   0</CMYKU>
+    <HEX>#2B2C7C</HEX>
+    <RGB R="43" G="44" B="124" />
+  </Color>
+  <Color Name="RAL 5003">
+    <Description ru="Сапфирово-синий" en="Saphire blue" />
+    <CMYKC>100  50   0  80</CMYKC>
+    <CMYKU> 90   0  10  25</CMYKU>
+    <HEX>#2A3756</HEX>
+    <RGB R="42" G="55" B="86" />
+  </Color>
+  <Color Name="RAL 5004">
+    <Description ru="Чёрно-синий" en="Black blue" />
+    <CMYKC>100 100  70  40</CMYKC>
+    <CMYKU> 84  53  47  56</CMYKU>
+    <HEX>#1D1F2A</HEX>
+    <RGB R="29" G="31" B="42" />
+  </Color>
+  <Color Name="RAL 5005">
+    <Description ru="Сигнальный синий" en="Signal blue" />
+    <CMYKC>100  40   0  40</CMYKC>
+    <CMYKU> 90  60   0   0</CMYKU>
+    <HEX>#154889</HEX>
+    <RGB R="21" G="72" B="137" />
+  </Color>
+  <Color Name="RAL 5007">
+    <Description ru="Бриллиантово-синий" en="Brillant blue" />
+    <CMYKC> 80  20   0  40</CMYKC>
+    <CMYKU>100  40   0  20</CMYKU>
+    <HEX>#41678D</HEX>
+    <RGB R="65" G="103" B="141" />
+  </Color>
+  <Color Name="RAL 5008">
+    <Description ru="Серо-синий" en="Grey blue" />
+    <CMYKC> 60   0   0  90</CMYKC>
+    <CMYKU>100  50  10  60</CMYKU>
+    <HEX>#313C48</HEX>
+    <RGB R="49" G="60" B="72" />
+  </Color>
+  <Color Name="RAL 5009">
+    <Description ru="Лазурно-синий" en="Azure blue" />
+    <CMYKC> 90  30  10  40</CMYKC>
+    <CMYKU>100  40  10  20</CMYKU>
+    <HEX>#2E5978</HEX>
+    <RGB R="46" G="89" B="120" />
+  </Color>
+  <Color Name="RAL 5010">
+    <Description ru="Горечавково-синий" en="Gentian blue" />
+    <CMYKC>100  40   5  40</CMYKC>
+    <CMYKU>100  70   0   0</CMYKU>
+    <HEX>#13447C</HEX>
+    <RGB R="19" G="68" B="124" />
+  </Color>
+  <Color Name="RAL 5011">
+    <Description ru="Стально-синий" en="Steel blue" />
+    <CMYKC>100  60  10  80</CMYKC>
+    <CMYKU> 96  46  10  40</CMYKU>
+    <HEX>#232C3F</HEX>
+    <RGB R="35" G="44" B="63" />
+  </Color>
+  <Color Name="RAL 5012">
+    <Description ru="Голубой" en="Light blue" />
+    <CMYKC> 90  30  10  10</CMYKC>
+    <CMYKU> 97  26   0   0</CMYKU>
+    <HEX>#3481B8</HEX>
+    <RGB R="52" G="129" B="184" />
+  </Color>
+  <Color Name="RAL 5013">
+    <Description ru="Кобальтово-синий" en="Cobalt blue" />
+    <CMYKC>100  60   0  60</CMYKC>
+    <CMYKU> 90   0  10  25</CMYKU>
+    <HEX>#232D53</HEX>
+    <RGB R="35" G="45" B="83" />
+  </Color>
+  <Color Name="RAL 5014">
+    <Description ru="Голубино-синий" en="Pigeon blue" />
+    <CMYKC> 50  20   0  40</CMYKC>
+    <CMYKU> 64  41  11  12</CMYKU>
+    <HEX>#6C7C98</HEX>
+    <RGB R="108" G="124" B="152" />
+  </Color>
+  <Color Name="RAL 5015">
+    <Description ru="Небесно-синий" en="Sky blue" />
+    <CMYKC>100  30   0  10</CMYKC>
+    <CMYKU>100  20   0   0</CMYKU>
+    <HEX>#2874B2</HEX>
+    <RGB R="40" G="116" B="178" />
+  </Color>
+  <Color Name="RAL 5017">
+    <Description ru="Транспортный синий" en="Traffic blue" />
+    <CMYKC>100  20   5  40</CMYKC>
+    <CMYKU> 90  50   0   0</CMYKU>
+    <HEX>#0E518D</HEX>
+    <RGB R="14" G="81" B="141" />
+  </Color>
+  <Color Name="RAL 5018">
+    <Description ru="Бирюзово-синий" en="Turquoise blue" />
+    <CMYKC> 90  10  40  10</CMYKC>
+    <CMYKU> 93   7  33   3</CMYKU>
+    <HEX>#21888F</HEX>
+    <RGB R="33" G="136" B="143" />
+  </Color>
+  <Color Name="RAL 5019">
+    <Description ru="Капри синий" en="Capri blue" />
+    <CMYKC>100  50  20  10</CMYKC>
+    <CMYKU>100  30   0  20</CMYKU>
+    <HEX>#1A5784</HEX>
+    <RGB R="26" G="87" B="132" />
+  </Color>
+  <Color Name="RAL 5020">
+    <Description ru="Океанская синь" en="Ocean blue" />
+    <CMYKC>100   0  40  80</CMYKC>
+    <CMYKU>100  30  50  40</CMYKU>
+    <HEX>#0B4151</HEX>
+    <RGB R="11" G="65" B="81" />
+  </Color>
+  <Color Name="RAL 5021">
+    <Description ru="Водная синь" en="Water blue" />
+    <CMYKC>100  20  50  10</CMYKC>
+    <CMYKU>100   0  30  15</CMYKU>
+    <HEX>#07737A</HEX>
+    <RGB R="7" G="115" B="122" />
+  </Color>
+  <Color Name="RAL 5022">
+    <Description ru="Ночной синий" en="Night blue" />
+    <CMYKC>100 100  40  40</CMYKC>
+    <CMYKU> 90   0  10  25</CMYKU>
+    <HEX>#2F2A5A</HEX>
+    <RGB R="47" G="42" B="90" />
+  </Color>
+  <Color Name="RAL 5023">
+    <Description ru="Отдалённо-синий" en="Distant blue" />
+    <CMYKC> 80  40  10  20</CMYKC>
+    <CMYKU>100  60  10   0</CMYKU>
+    <HEX>#4D668E</HEX>
+    <RGB R="77" G="102" B="142" />
+  </Color>
+  <Color Name="RAL 5024">
+    <Description ru="Пастельно-синий" en="Pastel blue" />
+    <CMYKC> 70  20  10  20</CMYKC>
+    <CMYKU> 63  17   7   8</CMYKU>
+    <HEX>#6A93B0</HEX>
+    <RGB R="106" G="147" B="176" />
+  </Color>
+  <Color Name="RAL 5025">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутровый горечавково-синий" en="Pearl gentian blue" />
+    <CMYKC> 97  48  31  15</CMYKC>
+    <CMYKU>100  30  20  20</CMYKU>
+    <HEX>#296478</HEX>
+    <RGB R="41" G="100" B="120" />
+  </Color>
+  <Color Name="RAL 5026">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутровый ночной синий" en="Pearl night blue" />
+    <CMYKC>100  80   0  50</CMYKC>
+    <CMYKU> 90   0  10  25</CMYKU>
+    <HEX>#102C54</HEX>
+    <RGB R="16" G="44" B="84" />
+  </Color>
+  <Color Name="RAL 6000">
+    <Description ru="Патиново-зелёный" en="Patina green" />
+    <CMYKC> 80  20  60  20</CMYKC>
+    <CMYKU> 98   8  68  17</CMYKU>
+    <HEX>#327662</HEX>
+    <RGB R="50" G="118" B="98" />
+  </Color>
+  <Color Name="RAL 6001">
+    <Description ru="Изумрудно-зелёный" en="Emerald green" />
+    <CMYKC> 90  30  90  10</CMYKC>
+    <CMYKU>100   0 100  15</CMYKU>
+    <HEX>#28713E</HEX>
+    <RGB R="40" G="113" B="62" />
+  </Color>
+  <Color Name="RAL 6002">
+    <Description ru="Лиственно-зелёный" en="Leaf green" />
+    <CMYKC> 90  40  90  10</CMYKC>
+    <CMYKU> 90   0 100  25</CMYKU>
+    <HEX>#276235</HEX>
+    <RGB R="39" G="98" B="53" />
+  </Color>
+  <Color Name="RAL 6003">
+    <Description ru="Оливково-зелёный" en="Olive green" />
+    <CMYKC> 80  50  80  20</CMYKC>
+    <CMYKU> 50  40 100  40</CMYKU>
+    <HEX>#4B573E</HEX>
+    <RGB R="75" G="87" B="62" />
+  </Color>
+  <Color Name="RAL 6004">
+    <Description ru="Сине-зелёный" en="Blue green" />
+    <CMYKC>100  50  60  40</CMYKC>
+    <CMYKU>100  30  50  40</CMYKU>
+    <HEX>#0E4243</HEX>
+    <RGB R="14" G="66" B="67" />
+  </Color>
+  <Color Name="RAL 6005">
+    <Description ru="Зелёный мох" en="Moss green" />
+    <CMYKC>100  60  90  20</CMYKC>
+    <CMYKU>100  20  90  30</CMYKU>
+    <HEX>#0F4336</HEX>
+    <RGB R="15" G="67" B="54" />
+  </Color>
+  <Color Name="RAL 6006">
+    <Description ru="Серо-оливковый" en="Grey olive" />
+    <CMYKC> 90  80  90  20</CMYKC>
+    <CMYKU> 80  70 100  60</CMYKU>
+    <HEX>#40433B</HEX>
+    <RGB R="64" G="67" B="59" />
+  </Color>
+  <Color Name="RAL 6007">
+    <Description ru="Бутылочно-зелёный" en="Bottle green" />
+    <CMYKC> 80  50  80  60</CMYKC>
+    <CMYKU> 80  60 100  60</CMYKU>
+    <HEX>#283424</HEX>
+    <RGB R="40" G="52" B="36" />
+  </Color>
+  <Color Name="RAL 6008">
+    <Description ru="Коричнево-зелёный" en="Brown green" />
+    <CMYKC> 70  50  70  80</CMYKC>
+    <CMYKU>100 100 100  75</CMYKU>
+    <HEX>#35382E</HEX>
+    <RGB R="53" G="56" B="46" />
+  </Color>
+  <Color Name="RAL 6009">
+    <Description ru="Пихтовый зелёный" en="Fir green" />
+    <CMYKC> 90  50  90  60</CMYKC>
+    <CMYKU>100  60  80  60</CMYKU>
+    <HEX>#26392F</HEX>
+    <RGB R="38" G="57" B="47" />
+  </Color>
+  <Color Name="RAL 6010">
+    <Description ru="Травяной зелёный" en="Grass green" />
+    <CMYKC> 70  10  80  40</CMYKC>
+    <CMYKU> 70   0 100  25</CMYKU>
+    <HEX>#3E753B</HEX>
+    <RGB R="62" G="117" B="59" />
+  </Color>
+  <Color Name="RAL 6011">
+    <Description ru="Резедово-зелёный" en="Reseda green" />
+    <CMYKC> 70  30  70   5</CMYKC>
+    <CMYKU> 50  13  70  20</CMYKU>
+    <HEX>#66825B</HEX>
+    <RGB R="102" G="130" B="91" />
+  </Color>
+  <Color Name="RAL 6012">
+    <Description ru="Чёрно-зелёный" en="Black green" />
+    <CMYKC>100  80 100  20</CMYKC>
+    <CMYKU>100  50  80  60</CMYKU>
+    <HEX>#31403D</HEX>
+    <RGB R="49" G="64" B="61" />
+  </Color>
+  <Color Name="RAL 6013">
+    <Description ru="Тростниково-зелёный" en="Reed green" />
+    <CMYKC> 40  20  60  40</CMYKC>
+    <CMYKU> 40  40  70  10</CMYKU>
+    <HEX>#797C5A</HEX>
+    <RGB R="121" G="124" B="90" />
+  </Color>
+  <Color Name="RAL 6014">
+    <Description ru="Жёлто-оливковый" en="Yellow olive" />
+    <CMYKC> 80  50  90  60</CMYKC>
+    <CMYKU> 50  70 100  50</CMYKU>
+    <HEX>#444337</HEX>
+    <RGB R="68" G="67" B="55" />
+  </Color>
+  <Color Name="RAL 6015">
+    <Description ru="Чёрно-оливковый" en="Black olive" />
+    <CMYKC> 80  60  70  40</CMYKC>
+    <CMYKU>100 100 100  75</CMYKU>
+    <HEX>#3D403A</HEX>
+    <RGB R="61" G="64" B="58" />
+  </Color>
+  <Color Name="RAL 6016">
+    <Description ru="Бирюзово-зелёный" en="Turquoise green" />
+    <CMYKC>100  30  80   0</CMYKC>
+    <CMYKU>100   0  70  15</CMYKU>
+    <HEX>#026A52</HEX>
+    <RGB R="2" G="106" B="82" />
+  </Color>
+  <Color Name="RAL 6017">
+    <Description ru="Майский зелёный" en="May green" />
+    <CMYKC> 80  20 100  10</CMYKC>
+    <CMYKU> 77   0  97   0</CMYKU>
+    <HEX>#468641</HEX>
+    <RGB R="70" G="134" B="65" />
+  </Color>
+  <Color Name="RAL 6018">
+    <Description ru="Желто-зелёный" en="Yellow green" />
+    <CMYKC> 70   0  90   0</CMYKC>
+    <CMYKU> 60   0 100   0</CMYKU>
+    <HEX>#48A43F</HEX>
+    <RGB R="72" G="164" B="63" />
+  </Color>
+  <Color Name="RAL 6019">
+    <Description ru="Бело-зелёный" en="Pastel green" />
+    <CMYKC> 35   0  40   0</CMYKC>
+    <CMYKU> 30   0  30   0</CMYKU>
+    <HEX>#B7D9B1</HEX>
+    <RGB R="183" G="217" B="177" />
+  </Color>
+  <Color Name="RAL 6020">
+    <Description ru="Хромовый зелёный" en="Chrome green" />
+    <CMYKC> 90  60  80  20</CMYKC>
+    <CMYKU> 80  40 100  50</CMYKU>
+    <HEX>#354733</HEX>
+    <RGB R="53" G="71" B="51" />
+  </Color>
+  <Color Name="RAL 6021">
+    <Description ru="Бледно-зелёный" en="Pale green" />
+    <CMYKC> 50  10  50  10</CMYKC>
+    <CMYKU> 43  13  50   7</CMYKU>
+    <HEX>#86A47C</HEX>
+    <RGB R="134" G="164" B="124" />
+  </Color>
+  <Color Name="RAL 6022">
+    <Description ru="Коричнево-оливковый" en="Olive drab" />
+    <CMYKC> 90  80 100  20</CMYKC>
+    <CMYKU> 70 100  90  75</CMYKU>
+    <HEX>#3E3C32</HEX>
+    <RGB R="62" G="60" B="50" />
+  </Color>
+  <Color Name="RAL 6024">
+    <Description ru="Транспортный зелёный" en="Traffic green" />
+    <CMYKC> 90  10  80  10</CMYKC>
+    <CMYKU> 90 100  70   0</CMYKU>
+    <HEX>#008754</HEX>
+    <RGB R="0" G="135" B="84" />
+  </Color>
+  <Color Name="RAL 6025">
+    <Description ru="Папоротниково-зелёный" en="Fern green" />
+    <CMYKC> 80  30  90  10</CMYKC>
+    <CMYKU> 50  10 100  25</CMYKU>
+    <HEX>#53753C</HEX>
+    <RGB R="83" G="117" B="60" />
+  </Color>
+  <Color Name="RAL 6026">
+    <Description ru="Опаловый зелёный" en="Opal green" />
+    <CMYKC>100  30  70  40</CMYKC>
+    <CMYKU>100   0  70  15</CMYKU>
+    <HEX>#005D52</HEX>
+    <RGB R="0" G="93" B="82" />
+  </Color>
+  <Color Name="RAL 6027">
+    <Description ru="Светло-зелёный" en="Light green" />
+    <CMYKC> 60   0  30   0</CMYKC>
+    <CMYKU> 50   0  20   0</CMYKU>
+    <HEX>#81C0BB</HEX>
+    <RGB R="129" G="192" B="187" />
+  </Color>
+  <Color Name="RAL 6028">
+    <Description ru="Сосновый зелёный" en="Pine green" />
+    <CMYKC>100  60 100   0</CMYKC>
+    <CMYKU>100  30 100  40</CMYKU>
+    <HEX>#2D5546</HEX>
+    <RGB R="45" G="85" B="70" />
+  </Color>
+  <Color Name="RAL 6029">
+    <Description ru="Мятно-зелёный" en="Mint green" />
+    <CMYKC>100  20 100   5</CMYKC>
+    <CMYKU>100   0 100   0</CMYKU>
+    <HEX>#007243</HEX>
+    <RGB R="0" G="114" B="67" />
+  </Color>
+  <Color Name="RAL 6032">
+    <Description ru="Сигнальный зелёный" en="Signal green" />
+    <CMYKC> 90  10  80   0</CMYKC>
+    <CMYKU> 90   0  70   0</CMYKU>
+    <HEX>#0F8558</HEX>
+    <RGB R="15" G="133" B="88" />
+  </Color>
+  <Color Name="RAL 6033">
+    <Description ru="Мятно-бирюзовый" en="Mint turquoise" />
+    <CMYKC> 80  20  50   0</CMYKC>
+    <CMYKU> 90   0  40  17</CMYKU>
+    <HEX>#478A84</HEX>
+    <RGB R="71" G="138" B="132" />
+  </Color>
+  <Color Name="RAL 6034">
+    <Description ru="Пастельно-бирюзовый" en="Pastel turquoise" />
+    <CMYKC> 60  10  40   0</CMYKC>
+    <CMYKU> 50   0  20  10</CMYKU>
+    <HEX>#7FB0B2</HEX>
+    <RGB R="127" G="176" B="178" />
+  </Color>
+  <Color Name="RAL 6035">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутрово-зелёный" en="Pearl green" />
+    <CMYKC> 90   0 100  75</CMYKC>
+    <CMYKU> 90  10 100  30</CMYKU>
+    <HEX>#1B542C</HEX>
+    <RGB R="27" G="84" B="44" />
+  </Color>
+  <Color Name="RAL 6036">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутровый опаловый зелёный" en="Pearl opal green" />
+    <CMYKC>100  10  60  50</CMYKC>
+    <CMYKU>100  10  60  30</CMYKU>
+    <HEX>#005D4C</HEX>
+    <RGB R="0" G="93" B="76" />
+  </Color>
+  <Color Name="RAL 6037">
+    <Description ru="Зелёный" en="Pure green" />
+    <CMYKC> 90   0 100   0</CMYKC>
+    <CMYKU> 90   0 100   0</CMYKU>
+    <HEX>#008F39</HEX>
+    <RGB R="0" G="143" B="57" />
+  </Color>
+  <Color Name="RAL 6038">
+    <Type ru="Флуоресцентный" en="Fluorescent" />
+    <Description ru="Люминесцентный зелёный" en="Luminous green" />
+    <CMYKC>100   0 100   0</CMYKC>
+    <CMYKU>100   0 100   0</CMYKU>
+    <HEX>#00BB2E</HEX>
+    <RGB R="0" G="187" B="46" />
+  </Color>
+  <Color Name="RAL 7000">
+    <Description ru="Серая белка" en="Squirrel grey" />
+    <CMYKC> 40  10  10  40</CMYKC>
+    <CMYKU> 33   6   6  36</CMYKU>
+    <HEX>#7E8B92</HEX>
+    <RGB R="126" G="139" B="146" />
+  </Color>
+  <Color Name="RAL 7001">
+    <Description ru="Серебристо-серый" en="Silver grey" />
+    <CMYKC> 10   0   0  40</CMYKC>
+    <CMYKU> 20   7   7  30</CMYKU>
+    <HEX>#8F999F</HEX>
+    <RGB R="143" G="153" B="159" />
+  </Color>
+  <Color Name="RAL 7002">
+    <Description ru="Оливково-серый" en="Olive grey" />
+    <CMYKC> 30  30  50  40</CMYKC>
+    <CMYKU> 37  37  57  15</CMYKU>
+    <HEX>#817F68</HEX>
+    <RGB R="129" G="127" B="104" />
+  </Color>
+  <Color Name="RAL 7003">
+    <Description ru="Серый мох" en="Moss grey" />
+    <CMYKC> 30  20  40  40</CMYKC>
+    <CMYKU> 27  20  40  40</CMYKU>
+    <HEX>#7A7B6D</HEX>
+    <RGB R="122" G="123" B="109" />
+  </Color>
+  <Color Name="RAL 7004">
+    <Description ru="Сигнальный серый" en="Signal grey" />
+    <CMYKC>  0   0   0  45</CMYKC>
+    <CMYKU>  7   4   4  33</CMYKU>
+    <HEX>#9EA0A1</HEX>
+    <RGB R="158" G="160" B="161" />
+  </Color>
+  <Color Name="RAL 7005">
+    <Description ru="Мышино-серый" en="Mouse grey" />
+    <CMYKC> 30  10  20  60</CMYKC>
+    <CMYKU> 48  42  39  20</CMYKU>
+    <HEX>#6B716F</HEX>
+    <RGB R="107" G="113" B="111" />
+  </Color>
+  <Color Name="RAL 7006">
+    <Description ru="Бежево-серый" en="Beige grey" />
+    <CMYKC>  0  10  30  60</CMYKC>
+    <CMYKU> 29  43  56  35</CMYKU>
+    <HEX>#756F61</HEX>
+    <RGB R="117" G="111" B="97" />
+  </Color>
+  <Color Name="RAL 7008">
+    <Description ru="Серое хаки" en="Khaki grey" />
+    <CMYKC> 30  40  70  40</CMYKC>
+    <CMYKU> 10  30  90  40</CMYKU>
+    <HEX>#746643</HEX>
+    <RGB R="116" G="102" B="67" />
+  </Color>
+  <Color Name="RAL 7009">
+    <Description ru="Зелёно-серый" en="Green grey" />
+    <CMYKC> 20  50  40  80</CMYKC>
+    <CMYKU> 60  50  70  32</CMYKU>
+    <HEX>#5B6259</HEX>
+    <RGB R="91" G="98" B="89" />
+  </Color>
+  <Color Name="RAL 7010">
+    <Description ru="Брезентово-серый" en="Tarpaulin grey" />
+    <CMYKC> 20   5  30  80</CMYKC>
+    <CMYKU> 60  47  50  43</CMYKU>
+    <HEX>#575D57</HEX>
+    <RGB R="87" G="93" B="87" />
+  </Color>
+  <Color Name="RAL 7011">
+    <Description ru="Железно-серый" en="Iron grey" />
+    <CMYKC> 40  10  20  80</CMYKC>
+    <CMYKU> 60  40  30  30</CMYKU>
+    <HEX>#555D61</HEX>
+    <RGB R="85" G="93" B="97" />
+  </Color>
+  <Color Name="RAL 7012">
+    <Description ru="Базальтово-серый" en="Basalt grey" />
+    <CMYKC> 20   0  10  80</CMYKC>
+    <CMYKU> 50  20  20  40</CMYKU>
+    <HEX>#596163</HEX>
+    <RGB R="89" G="97" B="99" />
+  </Color>
+  <Color Name="RAL 7013">
+    <Description ru="Коричнево-серый" en="Brown grey" />
+    <CMYKC> 10  10  40  80</CMYKC>
+    <CMYKU> 50  60 100  50</CMYKU>
+    <HEX>#555548</HEX>
+    <RGB R="85" G="85" B="72" />
+  </Color>
+  <Color Name="RAL 7015">
+    <Description ru="Сланцево-серый" en="Slate grey" />
+    <CMYKC> 40  10  10  80</CMYKC>
+    <CMYKU> 80  65  33  45</CMYKU>
+    <HEX>#51565C</HEX>
+    <RGB R="81" G="86" B="92" />
+  </Color>
+  <Color Name="RAL 7016">
+    <Description ru="Антрацитово-серый" en="Anthracite grey" />
+    <CMYKC> 60  30  30  80</CMYKC>
+    <CMYKU>100  50  30  60</CMYKU>
+    <HEX>#373F43</HEX>
+    <RGB R="55" G="63" B="67" />
+  </Color>
+  <Color Name="RAL 7021">
+    <Description ru="Чёрно-серый" en="Black grey" />
+    <CMYKC> 50  10   5  95</CMYKC>
+    <CMYKU>100  90  70  50</CMYKU>
+    <HEX>#2E3234</HEX>
+    <RGB R="46" G="50" B="52" />
+  </Color>
+  <Color Name="RAL 7022">
+    <Description ru="Серая умбра" en="Umbra grey" />
+    <CMYKC> 30  20  40  80</CMYKC>
+    <CMYKU> 80  80 100  75</CMYKU>
+    <HEX>#4B4D46</HEX>
+    <RGB R="75" G="77" B="70" />
+  </Color>
+  <Color Name="RAL 7023">
+    <Description ru="Серый бетон" en="Concrete grey" />
+    <CMYKC> 40  20  40  40</CMYKC>
+    <CMYKU> 50  40  40   0</CMYKU>
+    <HEX>#818479</HEX>
+    <RGB R="129" G="132" B="121" />
+  </Color>
+  <Color Name="RAL 7024">
+    <Description ru="Графитовый серый" en="Graphite grey" />
+    <CMYKC> 80  60  50  40</CMYKC>
+    <CMYKU> 90  60  30  60</CMYKU>
+    <HEX>#474A50</HEX>
+    <RGB R="71" G="74" B="80" />
+  </Color>
+  <Color Name="RAL 7026">
+    <Description ru="Гранитовый серый" en="Granite grey" />
+    <CMYKC> 60  20  30  80</CMYKC>
+    <CMYKU>100  40  50  60</CMYKU>
+    <HEX>#374447</HEX>
+    <RGB R="55" G="68" B="71" />
+  </Color>
+  <Color Name="RAL 7030">
+    <Description ru="Каменно-серый" en="Stone grey" />
+    <CMYKC> 20  10  20  40</CMYKC>
+    <CMYKU>  0   0  10  40</CMYKU>
+    <HEX>#939388</HEX>
+    <RGB R="147" G="147" B="136" />
+  </Color>
+  <Color Name="RAL 7031">
+    <Description ru="Сине-серый" en="Blue grey" />
+    <CMYKC> 60  30  30  40</CMYKC>
+    <CMYKU> 68  52  41  18</CMYKU>
+    <HEX>#5D6970</HEX>
+    <RGB R="93" G="105" B="112" />
+  </Color>
+  <Color Name="RAL 7032">
+    <Description ru="Галечный серый" en="Pebble grey" />
+    <CMYKC>  0   0  20  40</CMYKC>
+    <CMYKU>  0   0  10  25</CMYKU>
+    <HEX>#B9B9A8</HEX>
+    <RGB R="185" G="185" B="168" />
+  </Color>
+  <Color Name="RAL 7033">
+    <Description ru="Цементно-серый" en="Cement grey" />
+    <CMYKC> 30  10  30  40</CMYKC>
+    <CMYKU> 37  13  37  30</CMYKU>
+    <HEX>#818979</HEX>
+    <RGB R="129" G="137" B="121" />
+  </Color>
+  <Color Name="RAL 7034">
+    <Description ru="Жёлто-серый" en="Yellow grey" />
+    <CMYKC>  5   5  40  40</CMYKC>
+    <CMYKU>  0   0  30  40</CMYKU>
+    <HEX>#939176</HEX>
+    <RGB R="147" G="145" B="118" />
+  </Color>
+  <Color Name="RAL 7035">
+    <Description ru="Светло-серый" en="Light grey" />
+    <CMYKC>  5   0   5  20</CMYKC>
+    <CMYKU> 20  14  14   0</CMYKU>
+    <HEX>#CBD0CC</HEX>
+    <RGB R="203" G="208" B="204" />
+  </Color>
+  <Color Name="RAL 7036">
+    <Description ru="Платиново-серый" en="Platinum grey" />
+    <CMYKC> 10  10  10  40</CMYKC>
+    <CMYKU> 30  30  20  10</CMYKU>
+    <HEX>#9A9697</HEX>
+    <RGB R="154" G="150" B="151" />
+  </Color>
+  <Color Name="RAL 7037">
+    <Description ru="Пыльно-серый" en="Dusty grey" />
+    <CMYKC> 30  20  20  40</CMYKC>
+    <CMYKU> 11   8   8  46</CMYKU>
+    <HEX>#7C7F7E</HEX>
+    <RGB R="124" G="127" B="126" />
+  </Color>
+  <Color Name="RAL 7038">
+    <Description ru="Агатовый серый" en="Agate grey" />
+    <CMYKC> 30  10  20  20</CMYKC>
+    <CMYKU> 30  22  22   0</CMYKU>
+    <HEX>#B4B8B0</HEX>
+    <RGB R="180" G="184" B="176" />
+  </Color>
+  <Color Name="RAL 7039">
+    <Description ru="Кварцевый серый" en="Quartz grey" />
+    <CMYKC> 50  40  50  40</CMYKC>
+    <CMYKU> 60  60  60   0</CMYKU>
+    <HEX>#6B695F</HEX>
+    <RGB R="107" G="105" B="95" />
+  </Color>
+  <Color Name="RAL 7040">
+    <Description ru="Серое окно" en="Window grey" />
+    <CMYKC> 20   5  10  40</CMYKC>
+    <CMYKU> 30  20  10  10</CMYKU>
+    <HEX>#9DA3A6</HEX>
+    <RGB R="157" G="163" B="166" />
+  </Color>
+  <Color Name="RAL 7042">
+    <Description ru="Транспортный серый A" en="Traffic grey A" />
+    <CMYKC> 30  10  20  40</CMYKC>
+    <CMYKU> 17   9   9  33</CMYKU>
+    <HEX>#8F9695</HEX>
+    <RGB R="143" G="150" B="149" />
+  </Color>
+  <Color Name="RAL 7043">
+    <Description ru="Транспортный серый B" en="Traffic grey B" />
+    <CMYKC> 30  10  20  80</CMYKC>
+    <CMYKU> 87  81  74  29</CMYKU>
+    <HEX>#4E5451</HEX>
+    <RGB R="78" G="84" B="81" />
+  </Color>
+  <Color Name="RAL 7044">
+    <Description ru="Серый шёлк" en="Silk grey" />
+    <CMYKC>  0   0  15  30</CMYKC>
+    <CMYKU> 10  10  10  10</CMYKU>
+    <HEX>#BDBDB2</HEX>
+    <RGB R="189" G="189" B="178" />
+  </Color>
+  <Color Name="RAL 7045">
+    <Description ru="Телегрей 1" en="Telegrey 1" />
+    <CMYKC> 20  10  10  40</CMYKC>
+    <CMYKU> 10   0   0  40</CMYKU>
+    <HEX>#91969A</HEX>
+    <RGB R="145" G="150" B="154" />
+  </Color>
+  <Color Name="RAL 7046">
+    <Description ru="Телегрей 2" en="Telegrey 2" />
+    <CMYKC> 30  10  10  40</CMYKC>
+    <CMYKU> 31  18  14  25</CMYKU>
+    <HEX>#82898E</HEX>
+    <RGB R="130" G="137" B="142" />
+  </Color>
+  <Color Name="RAL 7047">
+    <Description ru="Телегрей 4" en="Telegrey 4" />
+    <CMYKC>  0   0   5  20</CMYKC>
+    <CMYKU>  0   0   0  12</CMYKU>
+    <HEX>#CFD0CF</HEX>
+    <RGB R="207" G="208" B="207" />
+  </Color>
+  <Color Name="RAL 7048">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутровый мышино-серый" en="Pearl mouse grey" />
+    <CMYKC> 32  32  39  27</CMYKC>
+    <CMYKU> 18  18  31  34</CMYKU>
+    <HEX>#888175</HEX>
+    <RGB R="136" G="129" B="117" />
+  </Color>
+  <Color Name="RAL 8000">
+    <Description ru="Зелёно-коричневый" en="Green brown" />
+    <CMYKC> 50  50  80  10</CMYKC>
+    <CMYKU> 20  40  90  25</CMYKU>
+    <HEX>#887142</HEX>
+    <RGB R="136" G="113" B="66" />
+  </Color>
+  <Color Name="RAL 8001">
+    <Description ru="Охра коричневая" en="Ochre brown" />
+    <CMYKC> 40  60  90  10</CMYKC>
+    <CMYKU> 10  50 100  10</CMYKU>
+    <HEX>#9C6B30</HEX>
+    <RGB R="156" G="107" B="48" />
+  </Color>
+  <Color Name="RAL 8002">
+    <Description ru="Сигнальный коричневый" en="Signal brown" />
+    <CMYKC> 60  80  80  10</CMYKC>
+    <CMYKU> 20  80 100  30</CMYKU>
+    <HEX>#7B5141</HEX>
+    <RGB R="123" G="81" B="65" />
+  </Color>
+  <Color Name="RAL 8003">
+    <Description ru="Глиняный коричневый" en="Clay brown" />
+    <CMYKC> 50  70  80  10</CMYKC>
+    <CMYKU>  0  60 100  40</CMYKU>
+    <HEX>#80542F</HEX>
+    <RGB R="128" G="84" B="47" />
+  </Color>
+  <Color Name="RAL 8004">
+    <Description ru="Медно-коричневый" en="Copper brown" />
+    <CMYKC> 40  80  80  10</CMYKC>
+    <CMYKU>  0  70 100  25</CMYKU>
+    <HEX>#8F4E35</HEX>
+    <RGB R="143" G="78" B="53" />
+  </Color>
+  <Color Name="RAL 8007">
+    <Description ru="Олень коричневый" en="Fawn brown" />
+    <CMYKC> 60  70  80  20</CMYKC>
+    <CMYKU>  0  70 100  40</CMYKU>
+    <HEX>#6F4A2F</HEX>
+    <RGB R="111" G="74" B="47" />
+  </Color>
+  <Color Name="RAL 8008">
+    <Description ru="Оливково-коричневый" en="Olive brown" />
+    <CMYKC> 50  60  70  20</CMYKC>
+    <CMYKU> 30  60 100  10</CMYKU>
+    <HEX>#6F4F28</HEX>
+    <RGB R="111" G="79" B="40" />
+  </Color>
+  <Color Name="RAL 8011">
+    <Description ru="Орехово-коричневый" en="Nut brown" />
+    <CMYKC> 10  60 100  80</CMYKC>
+    <CMYKU> 10  90 100  50</CMYKU>
+    <HEX>#5A3A29</HEX>
+    <RGB R="90" G="58" B="41" />
+  </Color>
+  <Color Name="RAL 8012">
+    <Description ru="Красно-коричневый" en="Red brown" />
+    <CMYKC>  5 100 100  80</CMYKC>
+    <CMYKU>  0 100 100  50</CMYKU>
+    <HEX>#673831</HEX>
+    <RGB R="103" G="56" B="49" />
+  </Color>
+  <Color Name="RAL 8014">
+    <Description ru="Сепия коричневый" en="Sepia brown" />
+    <CMYKC> 30  60 100  80</CMYKC>
+    <CMYKU> 40  70 100  50</CMYKU>
+    <HEX>#49392D</HEX>
+    <RGB R="73" G="57" B="45" />
+  </Color>
+  <Color Name="RAL 8015">
+    <Description ru="Каштаново-коричневый" en="Chestnut brown" />
+    <CMYKC>  0  90 100  80</CMYKC>
+    <CMYKU> 10 100 100  50</CMYKU>
+    <HEX>#633A34</HEX>
+    <RGB R="99" G="58" B="52" />
+  </Color>
+  <Color Name="RAL 8016">
+    <Description ru="Махагон коричневый" en="Mahogany brown" />
+    <CMYKC> 40  80  80  80</CMYKC>
+    <CMYKU> 30  90  90  50</CMYKU>
+    <HEX>#4C2F26</HEX>
+    <RGB R="76" G="47" B="38" />
+  </Color>
+  <Color Name="RAL 8017">
+    <Description ru="Шоколадно-коричневый" en="Chocolate brown" />
+    <CMYKC> 60  80  80  80</CMYKC>
+    <CMYKU> 50 100  90  60</CMYKU>
+    <HEX>#44322D</HEX>
+    <RGB R="68" G="50" B="45" />
+  </Color>
+  <Color Name="RAL 8019">
+    <Description ru="Серо-коричневый" en="Grey brown" />
+    <CMYKC> 90  90  80  80</CMYKC>
+    <CMYKU> 70 100  90  75</CMYKU>
+    <HEX>#3F3A3A</HEX>
+    <RGB R="63" G="58" B="58" />
+  </Color>
+  <Color Name="RAL 8022">
+    <Description ru="Чёрно-коричневый" en="Black brown" />
+    <CMYKC>100 100  80  95</CMYKC>
+    <CMYKU> 70 100  90  75</CMYKU>
+    <HEX>#211F20</HEX>
+    <RGB R="33" G="31" B="32" />
+  </Color>
+  <Color Name="RAL 8023">
+    <Description ru="Оранжево-коричневый" en="Orange brown" />
+    <CMYKC> 20  70 100  20</CMYKC>
+    <CMYKU>  0  70 100  10</CMYKU>
+    <HEX>#A65E2F</HEX>
+    <RGB R="166" G="94" B="47" />
+  </Color>
+  <Color Name="RAL 8024">
+    <Description ru="Бежево-коричневый" en="Beige brown" />
+    <CMYKC> 30  60  70  40</CMYKC>
+    <CMYKU>  0  60 100  40</CMYKU>
+    <HEX>#79553C</HEX>
+    <RGB R="121" G="85" B="60" />
+  </Color>
+  <Color Name="RAL 8025">
+    <Description ru="Бледно-коричневый" en="Pale brown" />
+    <CMYKC> 40  50  60  40</CMYKC>
+    <CMYKU>  7  60  93  43</CMYKU>
+    <HEX>#755C49</HEX>
+    <RGB R="117" G="92" B="73" />
+  </Color>
+  <Color Name="RAL 8028">
+    <Description ru="Терракотовый" en="Terra brown" />
+    <CMYKC> 20  50  70  80</CMYKC>
+    <CMYKU> 40  80 100  50</CMYKU>
+    <HEX>#4E3B2B</HEX>
+    <RGB R="78" G="59" B="43" />
+  </Color>
+  <Color Name="RAL 8029">
+    <Description ru="Перламутровый медный" en="Pearl copper" />
+    <CMYKC> 23  80  93  43</CMYKC>
+    <CMYKU>  0  80 100  40</CMYKU>
+    <HEX>#773C27</HEX>
+    <RGB R="119" G="60" B="39" />
+  </Color>
+  <Color Name="RAL 9001">
+    <Description ru="Кремово-белый" en="Cream" />
+    <CMYKC>  0   0  10   5</CMYKC>
+    <CMYKU>  0   0  10   0</CMYKU>
+    <HEX>#EFEBDC</HEX>
+    <RGB R="239" G="235" B="220" />
+  </Color>
+  <Color Name="RAL 9002">
+    <Description ru="Светло-серый" en="Grey white" />
+    <CMYKC>  5   0  10  10</CMYKC>
+    <CMYKU>  3   3  10   7</CMYKU>
+    <HEX>#DDDED4</HEX>
+    <RGB R="221" G="222" B="212" />
+  </Color>
+  <Color Name="RAL 9003">
+    <Description ru="Сигнальный белый" en="Signal white" />
+    <CMYKC>  0   0   0   0</CMYKC>
+    <CMYKU>  0   0   0   0</CMYKU>
+    <HEX>#F4F8F4</HEX>
+    <RGB R="244" G="248" B="244" />
+  </Color>
+  <Color Name="RAL 9004">
+    <Description ru="Сигнальный чёрный" en="Signal black" />
+    <CMYKC>100  90 100  80</CMYKC>
+    <CMYKU>100 100 100  75</CMYKU>
+    <HEX>#2E3032</HEX>
+    <RGB R="46" G="48" B="50" />
+  </Color>
+  <Color Name="RAL 9005">
+    <Description ru="Чёрный янтарь" en="Jet black" />
+    <CMYKC>100 100 100  95</CMYKC>
+    <CMYKU> 87  65  66  58</CMYKU>
+    <HEX>#0A0A0D</HEX>
+    <RGB R="10" G="10" B="13" />
+  </Color>
+  <Color Name="RAL 9006">
+    <Type ru="Железный блеск" en="Iron Glimmer" />
+    <Description ru="Бело-алюминиевый" en="White aluminium" />
+    <CMYKC>  0   0   0  40</CMYKC>
+    <CMYKU>  0   0   0  20</CMYKU>
+    <HEX>#A5A8A6</HEX>
+    <RGB R="165" G="168" B="166" />
+  </Color>
+  <Color Name="RAL 9007">
+    <Type ru="Железный блеск" en="Iron Glimmer" />
+    <Description ru="Тёмно-алюминиевый" en="Grey aluminium" />
+    <CMYKC>  0   0   0  60</CMYKC>
+    <CMYKU> 17  14  17  29</CMYKU>
+    <HEX>#8F8F8C</HEX>
+    <RGB R="143" G="143" B="140" />
+  </Color>
+  <Color Name="RAL 9010">
+    <Description ru="Белый" en="Pure white" />
+    <CMYKC>  0   0   5   0</CMYKC>
+    <CMYKU>  0   0   7   0</CMYKU>
+    <HEX>#F7F9EF</HEX>
+    <RGB R="247" G="249" B="239" />
+  </Color>
+  <Color Name="RAL 9011">
+    <Description ru="Графитно-чёрный" en="Graphite black" />
+    <CMYKC>100 100 100  80</CMYKC>
+    <CMYKU> 90 100  97  75</CMYKU>
+    <HEX>#292C2F</HEX>
+    <RGB R="41" G="44" B="47" />
+  </Color>
+  <Color Name="RAL 9016">
+    <Description ru="Транспортный белый" en="Traffic white" />
+    <CMYKC>  3   0   0   0</CMYKC>
+    <CMYKU>  0   0   0   0</CMYKU>
+    <HEX>#F7FBF5</HEX>
+    <RGB R="247" G="251" B="245" />
+  </Color>
+  <Color Name="RAL 9017">
+    <Description ru="Транспортный чёрный" en="Traffic black" />
+    <CMYKC>100  90 100  95</CMYKC>
+    <CMYKU> 87  66  66  58</CMYKU>
+    <HEX>#2A2D2F</HEX>
+    <RGB R="42" G="45" B="47" />
+  </Color>
+  <Color Name="RAL 9018">
+    <Description ru="Папирусно-белый" en="Papyrus white" />
+    <CMYKC> 10   0  10  20</CMYKC>
+    <CMYKU>  7   4  10   6</CMYKU>
+    <HEX>#CFD3CD</HEX>
+    <RGB R="207" G="211" B="205" />
+  </Color>
+  <Color Name="RAL 9022">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутровый светло-серый" en="Pearl light grey" />
+    <CMYKC> 21  14  14  31</CMYKC>
+    <CMYKU> 10   7   7  28</CMYKU>
+    <HEX>#9C9C9C</HEX>
+    <RGB R="156" G="156" B="156" />
+  </Color>
+  <Color Name="RAL 9023">
+    <Type ru="Жемчужный Глянец" en="Pearl Gloss" />
+    <Description ru="Перламутровый тёмно-серый" en="Pearl dark grey" />
+    <CMYKC>  8   6   6  57</CMYKC>
+    <CMYKU> 20  10  10  40</CMYKU>
+    <HEX>#7E8182</HEX>
+    <RGB R="126" G="129" B="130" />
+  </Color>
+</ColorCollection>

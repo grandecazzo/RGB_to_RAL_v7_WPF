@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="RGBtoRALv7_WPF.RGBPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RGBtoRALv7_WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="250">
+
+	<UserControl.Resources>
+
+		<SolidColorBrush x:Key="SuperBlue" Color="#50b4f5"></SolidColorBrush>
+
+		<Style x:Key="NoBackButton" TargetType="Button">
+			<Setter Property="OverridesDefaultStyle" Value="True" />
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="Button">
+						<Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+							<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+						</Border>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+
+	</UserControl.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="30"></RowDefinition>
+			<RowDefinition Height="30"></RowDefinition>
+			<RowDefinition Height="30"></RowDefinition>
+			<RowDefinition Height="20"></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+			<RowDefinition></RowDefinition>
+		</Grid.RowDefinitions>
+		<DockPanel Grid.Row="0">
+
+			<TextBox Margin="0,0,3,0" Foreground="{StaticResource SuperBlue}" Text="0" HorizontalContentAlignment="Center"  Name="RedTextBox" MaxLength="3"
+					 Background="#323133" BorderBrush="{StaticResource SuperBlue}" DockPanel.Dock="Right" Width="30" Height="20" VerticalAlignment="Center"
+					 PreviewTextInput="TextBox_PreviewTextInput" TextChanged="RedTextBox_TextChanged"></TextBox>
+			<Slider x:Name="RedSlider" DockPanel.Dock="Right" Style="{StaticResource Horizontal_Slider_Red}" VerticalAlignment="Center" Width="170" Margin="0,0,3,0"
+					 ValueChanged="RedSlider_ValueChanged">
+			</Slider>
+			<Label DockPanel.Dock="Left" Content="Red" Foreground="{StaticResource SuperBlue}" HorizontalAlignment="Left" VerticalAlignment="Center"></Label>
+		</DockPanel>
+
+		<DockPanel Grid.Row="1">
+
+			<TextBox Margin="0,0,3,0" Foreground="{StaticResource SuperBlue}" Text="0" HorizontalContentAlignment="Center"  Name="GreenTextBox" MaxLength="3"
+					 Background="#323133" BorderBrush="{StaticResource SuperBlue}" DockPanel.Dock="Right" Width="30" Height="20" VerticalAlignment="Center"
+					 PreviewTextInput="TextBox_PreviewTextInput" TextChanged="GreenTextBox_TextChanged"></TextBox>
+			<Slider x:Name="GreenSlider" DockPanel.Dock="Right" Style="{StaticResource Horizontal_Slider_Green}" VerticalAlignment="Center" Width="170" Margin="0,0,3,0"
+					ValueChanged="GreenSlider_ValueChanged">
+			</Slider>
+			<Label DockPanel.Dock="Left" Content="Green" Foreground="{StaticResource SuperBlue}" HorizontalAlignment="Left" VerticalAlignment="Center"></Label>
+		</DockPanel>
+
+		<DockPanel Grid.Row="2">
+
+			<TextBox Margin="0,0,3,0" Foreground="{StaticResource SuperBlue}" Text="0" HorizontalContentAlignment="Center"  Name="BlueTextBox" MaxLength="3"
+					 Background="#323133" BorderBrush="{StaticResource SuperBlue}" DockPanel.Dock="Right" Width="30" Height="20" VerticalAlignment="Center"
+					 PreviewTextInput="TextBox_PreviewTextInput" TextChanged="BlueTextBox_TextChanged"></TextBox>
+			<Slider x:Name="BlueSlider" DockPanel.Dock="Right" Style="{StaticResource Horizontal_Slider_Blue}" VerticalAlignment="Center" Width="170" Margin="0,0,3,0"
+					ValueChanged="BlueSlider_ValueChanged">
+			</Slider>
+			<Label DockPanel.Dock="Left" Content="Blue" Foreground="{StaticResource SuperBlue}" HorizontalAlignment="Left" VerticalAlignment="Center"></Label>
+		</DockPanel>
+
+		<DockPanel Grid.Row="3">
+			<TextBlock Name="tipLabel" Foreground="{StaticResource SuperBlue}" DockPanel.Dock="Left"></TextBlock>
+			<Button Width="16" DockPanel.Dock="Right" Style="{StaticResource NoBackButton}" HorizontalAlignment="Right" Margin="0,0,6,0" Click="Sip_Button_Click">
+				<Image Source="/sip-line_blue.png" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave"></Image>
+			</Button>
+			<Button Name="FindButton" DockPanel.Dock="Right" Height="20" HorizontalAlignment="Right" Margin="0,0,2,0" MouseDown="Button_MouseDown" Click="Button_Click" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave"
+					Style="{StaticResource NoBackButton}" Foreground="{StaticResource SuperBlue}">
+				<DockPanel>
+					<Label Name="FindLabel" Content="Find" Foreground="{StaticResource SuperBlue}" Margin="0,-4" VerticalAlignment="Top" VerticalContentAlignment="Top" DockPanel.Dock="Right"></Label>
+					<Image Name="FindImage" Source="/search-line_blue.png" Stretch="None"  DockPanel.Dock="Right" Height="20" Width="20"/>
+				</DockPanel>
+			</Button>
+		</DockPanel>
+		<Border Grid.Row="4" BorderBrush="#323133" BorderThickness="0,2,0,2" Margin="8,3,8,0">
+			<TextBlock x:Name="NameTypeDescLabel" Foreground="{StaticResource SuperBlue}" Text="Name: Type:" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center">
+			</TextBlock>
+		</Border>
+		<Label Margin="3,0,3,0" x:Name="DescriptionLabel" Grid.Row="5" Foreground="{StaticResource SuperBlue}" Content="Description:" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+		<Border Margin="8,0,8,3" Grid.Row="6" BorderBrush="#323133" BorderThickness="0,2,0,0">
+			<Label x:Name="ColorDataLabel" Foreground="{StaticResource SuperBlue}" Content="HEX: RGB:" VerticalContentAlignment="Center"  HorizontalContentAlignment="Center"></Label>
+		</Border>
+	</Grid>
+</UserControl>
