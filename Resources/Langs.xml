@@ -1,0 +1,43 @@
+﻿<Langs>
+  <Lang id="en">
+    <!--SETTINGS WINDOW-->
+    <field_language>Language:</field_language>
+    <field_siptype>Sip type:</field_siptype>
+    <field_siptype_0>All screens</field_siptype_0>
+    <field_siptype_1>Ask for screen</field_siptype_1>
+    <field_siptype_2>Active screen</field_siptype_2>
+    <field_hide_window>Hide main window</field_hide_window>
+    <field_developed>Developed by stormtrooper_34 2020 ver.7</field_developed>
+    <field_setdefault>Set to Default:</field_setdefault>
+    <field_reset_button>RESET</field_reset_button>
+    <!--RGB PANEL-->
+    <field_button_find>Find</field_button_find>
+    <field_name>Name:</field_name>
+    <field_type>Type:</field_type>
+    <field_desc>Description:</field_desc>
+    <field_sip_textblock>Hover mouse over screen, you want to take color from. Click to select color. Press Enter on screen or keyboard to apply. Cancel or Esc to cencel.</field_sip_textblock>
+    <field_enter_button>Enter</field_enter_button>
+    <field_cancel_button>Cancel</field_cancel_button>
+  </Lang>
+  <Lang id="ru">
+    <!--SETTINGS WINDOW-->
+    <field_language>Язык:</field_language>
+    <field_siptype>Тип пипетки:</field_siptype>
+    <field_siptype_0>Все мониторы</field_siptype_0>
+    <field_siptype_1>Запрашивать монитор</field_siptype_1>
+    <field_siptype_2>Активный монитор</field_siptype_2>
+    <field_hide_window>Сворачивать это окно</field_hide_window>
+    <field_developed>Разработано stormtrooper_34 2020 ver.7</field_developed>
+    <field_setdefault>Сброс настроек:</field_setdefault>
+    <field_reset_button>СБРОС</field_reset_button>
+    <!--RGB PANEL-->
+    <field_button_find>Найти</field_button_find>
+    <field_name>Имя:</field_name>
+    <field_type>Тип:</field_type>
+    <field_desc>Описание:</field_desc>
+    <!--SIP PANEL-->
+    <field_sip_textblock>Кликните по части экрана, чтобы выбрать цвет. Принять либо Enter чтобы применить цвет. Отмена либо Esc чтобы выйти.</field_sip_textblock>
+    <field_enter_button>Принять</field_enter_button>
+    <field_cancel_button>Отмена</field_cancel_button>
+  </Lang>
+</Langs>

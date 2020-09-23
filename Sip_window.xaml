@@ -1,0 +1,14 @@
+﻿<Window x:Class="RGBtoRALv7_WPF.Sip_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RGBtoRALv7_WPF"
+        mc:Ignorable="d"
+        Title="Sip_window" WindowStyle="None" WindowStartupLocation="Manual" ResizeMode="NoResize" ContentRendered="Window_ContentRendered" KeyDown="Window_KeyDown">
+	<Grid Background="#3C3D3C" Name="grid">
+		<Image HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="None" Source="/big_sip-line.png"></Image>
+		<Image HorizontalAlignment="Stretch" Name="sipScreenImage" VerticalAlignment="Stretch" Opacity="0.5" MouseUp="Image_MouseUp" MouseEnter="sipScreenImage_MouseEnter" MouseLeave="sipScreenImage_MouseLeave"></Image>
+		<Canvas Name="Canvas" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Canvas>
+    </Grid>
+</Window>
